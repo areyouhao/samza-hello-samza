@@ -16,7 +16,7 @@ The **Hello Samza** project contains example Samza applications of high-level AP
 Check out the hello-samza project:
 
 ```
-git clone https://gitbox.apache.org/repos/asf/samza-hello-samza.git hello-samza
+git@github.com:areyouhao/samza-hello-samza.git hello-samza
 cd hello-samza
 ```
 
